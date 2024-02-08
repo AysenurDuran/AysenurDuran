@@ -99,13 +99,13 @@ jobs:
   
 </p>-->
 
-![](https://github-readme-stats.vercel.app/api?username=Aysenur-Duran&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aysenur-Duran&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysenur-Duran&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AysenurDuran&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AysenurDuran&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AysenurDuran&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aysenur-Duran&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AysenurDuran&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
 
